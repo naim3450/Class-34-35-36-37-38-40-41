@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.one{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'DM Sans';
+    color: #262626;
+    display: inline-block;
+    vertical-align: middle;
+}
